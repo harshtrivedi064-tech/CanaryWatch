@@ -1,0 +1,8 @@
+.env
+.venv/
+.venv312/
+canarywatch.db
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+**/__pycache__/
